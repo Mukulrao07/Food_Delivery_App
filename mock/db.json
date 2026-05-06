@@ -1,0 +1,112 @@
+{
+  "restaurants": [
+    {
+      "id": 101,
+      "name": "Spice Route Paneer Tikka",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Paneer_tikka.jpg",
+      "rating": 4.6,
+      "deliveryTime": "25-30 min",
+      "location": "Ujjain - Spice Route",
+      "price": "Rs. 220"
+    },
+    {
+      "id": 102,
+      "name": "Tandoori Mushroom Skewers",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Tandoori_Mushroom.jpg",
+      "rating": 4.5,
+      "deliveryTime": "25-30 min",
+      "location": "Ujjain - Tandoor Trails",
+      "price": "Rs. 240"
+    },
+    {
+      "id": 103,
+      "name": "Dal Makhani with Naan",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Dal_Makhani_%281%29.JPG",
+      "rating": 4.4,
+      "deliveryTime": "25-30 min",
+      "location": "Ujjain - Dal House",
+      "price": "Rs. 200"
+    },
+    {
+      "id": 104,
+      "name": "Veg Biryani Combo",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Vegetable_Biryani_IMG_001.jpg",
+      "rating": 4.7,
+      "deliveryTime": "25-30 min",
+      "location": "Ujjain - Biryani Junction",
+      "price": "Rs. 260"
+    },
+    {
+      "id": 201,
+      "name": "Classic Margherita Pizza",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Pizza_Margherita_%28%29.JPG",
+      "rating": 4.3,
+      "deliveryTime": "30-35 min",
+      "location": "Ujjain - Oven Fresh",
+      "price": "Rs. 180"
+    },
+    {
+      "id": 202,
+      "name": "Smoky BBQ Paneer Pizza",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Paneer_Pizza.jpg",
+      "rating": 4.6,
+      "deliveryTime": "30-35 min",
+      "location": "Ujjain - Pizza Harbor",
+      "price": "Rs. 260"
+    },
+    {
+      "id": 203,
+      "name": "Pesto Veggie Pasta",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Pesto_pasta.jpg",
+      "rating": 4.4,
+      "deliveryTime": "30-35 min",
+      "location": "Ujjain - Pasta Grove",
+      "price": "Rs. 210"
+    },
+    {
+      "id": 204,
+      "name": "Garlic Bread with Dip",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Garlic_bread.jpg",
+      "rating": 4.2,
+      "deliveryTime": "30-35 min",
+      "location": "Ujjain - Garlic Street",
+      "price": "Rs. 120"
+    },
+    {
+      "id": 301,
+      "name": "Masala Dosa Supreme",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Masala_Dosa.jpg",
+      "rating": 4.5,
+      "deliveryTime": "20-25 min",
+      "location": "Ujjain - South Circle",
+      "price": "Rs. 160"
+    },
+    {
+      "id": 302,
+      "name": "Idli Sambar Platter",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Idli_sambar.JPG",
+      "rating": 4.3,
+      "deliveryTime": "20-25 min",
+      "location": "Ujjain - Idli Corner",
+      "price": "Rs. 140"
+    },
+    {
+      "id": 303,
+      "name": "Medu Vada Crunch",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Medu_Vada.jpg",
+      "rating": 4.4,
+      "deliveryTime": "20-25 min",
+      "location": "Ujjain - Vada Villa",
+      "price": "Rs. 130"
+    },
+    {
+      "id": 304,
+      "name": "Filter Coffee and Bun",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Breakfast_Bun_and_Coffee.jpg",
+      "rating": 4.2,
+      "deliveryTime": "20-25 min",
+      "location": "Ujjain - Filter Brew",
+      "price": "Rs. 90"
+    }
+  ]
+}
